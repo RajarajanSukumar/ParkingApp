@@ -1,0 +1,67 @@
+.parkingLayout{
+    margin : 70px auto;
+    min-width : 1000px;
+    min-height : 500px;
+    border : 5px solid black;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.6);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    overflow-x: auto;
+}
+
+.buttonGrid{
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+}
+
+#zoneSpace{
+    border :  1px solid black;
+    width: 25%;
+    background-color: whitesmoke;
+    border-radius : 1px;    
+    box-shadow: 0 0 20px rgba(202, 201, 201, 0.5);
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+    justify-content: space-around;
+}
+
+#zoneSpace:hover{
+    border : 1px solid white;
+    cursor: pointer;
+}
+
+.parkingGrid{
+    display : grid;
+    grid-template-columns: repeat(5, minmax(200px, 1fr));
+    gap:155px;
+    
+}
+
+.confirmSlots{
+  margin-top: 50px;
+  margin-bottom: 10px;
+  padding: 12px 75px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #4CAF50;
+  color: black;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+  transition: background-color 0.3s ease;
+}
+
+.confirmSlots:hover{
+    background-color: #09980e;
+}
+
+.confirmSlots:disabled {
+    background-color: #ccc;
+    color: #666;
+    cursor: not-allowed;
+    opacity: 0.6;
+}

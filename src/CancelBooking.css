@@ -1,0 +1,90 @@
+.cancelLayout{
+    min-height: 700px;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cancelOutline{
+    background-color: white;
+    padding: 200px;
+    width: 300px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+.checkBox{
+    padding: 5px;
+}
+
+button.confirmCancel {
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button.confirmCancel:hover {
+    background-color: #0056b3;
+  }
+
+  .cancelOverlay{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.3); 
+    backdrop-filter: blur(10px); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+  }
+
+  .cancelPopup{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 420px;
+    padding: 30px;
+    text-align: center;
+    border-radius: 16px;
+    background-color: yellowgreen;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    transform: translate(-50%, -50%);
+  }
+
+  .cancelPopup h2{
+    color: white;
+    font-size: 22px;
+    margin-bottom: 15px;
+    font-weight: 600;
+  }
+
+  .cancelPopup p{
+    margin: 6px 0;
+    color: black;
+    font-size: 16px;
+  }
+
+  .cancelPopup button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.2s ease;
+  }
+
+  .cancelPopup button:hover{
+    background-color: #f0f0f0;
+  }

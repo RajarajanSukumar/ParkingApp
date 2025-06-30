@@ -1,0 +1,28 @@
+{
+  "loginData": [
+    {
+      "username": "User1",
+      "password": "asdf",
+      "vehicleNumber": "2233",
+      "id": "a879"
+    },
+    {
+      "id": "1b0e",
+      "username": "User2",
+      "password": "asdfg",
+      "vehicleNumber": "5555"
+    },
+    {
+      "id": "2cf4",
+      "username": "User3",
+      "password": "asdfg",
+      "vehicleNumber": "2321"
+    },
+    {
+      "id": "5b7a",
+      "username": "User4",
+      "password": "User4",
+      "vehicleNumber": "7777"
+    }
+  ]
+}

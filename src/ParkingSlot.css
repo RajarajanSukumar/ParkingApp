@@ -1,0 +1,21 @@
+.slotSpace{
+    width : 148px;
+    min-height : 300px;
+    border : 1px solid grey;
+    border-radius : 5px;
+    color: white;
+    cursor : pointer;
+}
+
+.slotSpace:hover{
+    border: 1px solid white;
+}
+
+.confirmationGrid{
+    display: grid;
+    grid-template-columns: repeat(3,minmax(200px,1fr));
+    margin-top: 500px;
+    max-width: 100px;
+    max-height: 50px;
+    background-color: white;
+}

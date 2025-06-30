@@ -1,0 +1,490 @@
+{
+  "parkingData1": [
+    {
+      "id": "Z1A1",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z1A2",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z1A3",
+      "state": "booked",
+      "noOfHours": "4",
+      "bookedBy": "User1"
+    },
+    {
+      "id": "Z1A4",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z1A5",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z1B1",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z1B2",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z1B3",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z1B4",
+      "state": "booked",
+      "noOfHours": "5",
+      "bookedBy": "User1"
+    },
+    {
+      "id": "Z1B5",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z1C1",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z1C2",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z1C3",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z1C4",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z1C5",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z1D1",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z1D2",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z1D3",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z1D4",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z1D5",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    }
+  ],
+  "parkingData2": [
+    {
+      "id": "Z2A1",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2A2",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2A3",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2A4",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2A5",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2B1",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2B2",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2B3",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2B4",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2B5",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2C1",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2C2",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2C3",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2C4",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2C5",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2D1",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2D2",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2D3",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2D4",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z2D5",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    }
+  ],
+  "parkingData3": [
+    {
+      "id": "Z3A1",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3A2",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3A3",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3A4",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3A5",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3B1",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3B2",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3B3",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3B4",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3B5",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3C1",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3C2",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3C3",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3C4",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3C5",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3D1",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3D2",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3D3",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3D4",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z3D5",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    }
+  ],
+  "parkingData4": [
+    {
+      "id": "Z4A1",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4A2",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4A3",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4A4",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4A5",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4B1",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4B2",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4B3",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4B4",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4B5",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4C1",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4C2",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4C3",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4C4",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4C5",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4D1",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4D2",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4D3",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4D4",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    },
+    {
+      "id": "Z4D5",
+      "state": "available",
+      "noOfHours": 1,
+      "bookedBy": ""
+    }
+  ]
+}

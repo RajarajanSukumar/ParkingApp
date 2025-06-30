@@ -1,0 +1,136 @@
+.confirmationLayout{
+    min-height: 500px;
+    min-width: 1000px;
+    background-color: rgb(81, 78, 78);
+    color: white;
+    padding-top:70px;
+}
+
+.confirmation-grid{
+    align-items: center;
+    justify-content:space-between;
+    min-width: 500px;
+    background-color: rgb(81, 78, 78);
+    display: flex;
+    margin-left: 440px;
+    margin-right: 500px;
+}
+
+.confirmation-card{
+   padding: 30px;
+   text-align: center;
+   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+   border-radius: 16px;
+   margin-top: 30px;
+   margin-bottom: 70px;
+   align-items: center;
+   min-height: 300px;
+   min-width: 300px;
+   background-color: white;
+   overflow:hidden;
+   gap: 20px;
+}
+
+.confirmation-card h1 {
+    font-size: 32px;
+    margin-bottom: 20px; 
+    color: black;
+  }
+  
+  .confirmation-card p {
+    font-size: 18px;
+    margin-bottom: 25px; 
+    color: black;
+  }
+  
+  .confirmation-card label {
+    display: inline-block;
+    margin-bottom: 10px; 
+    color: black;
+  }
+  
+  .confirmation-card select {
+    margin-top: 10px; 
+    color: black;
+  }
+
+  .confirmBooking{
+    margin-left: 625px;
+    color: black;
+  }
+
+  .confirmBookingButton{
+    margin-bottom: 10px;
+    padding: 12px 75px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #4CAF50;
+    color: black;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    transition: background-color 0.3s ease;
+  }
+
+  .confirmBookingButton:hover{
+    background-color: #09980e;
+}
+
+.confirmOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.3); 
+  backdrop-filter: blur(10px); 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.confirmBox{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 420px;
+  padding: 30px;
+  text-align: center;
+  background-color: yellowgreen;
+  border-radius: 16px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+  transform: translate(-50%, -50%);
+  z-index: 10000;
+}
+
+.confirmBox h2 {
+  color: white;
+  font-size: 22px;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+.confirmBox p {
+  margin: 6px 0;
+  color: black;
+  font-size: 16px;
+}
+
+
+.confirmBox button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: white;
+  color: black;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.2s ease;
+}
+
+.confirmBox button:hover{
+  background-color: #f0f0f0;
+}
