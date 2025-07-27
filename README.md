@@ -51,12 +51,13 @@ ParkingApp allows users to browse parking slots, check real-time availability, a
 <img width="1918" height="766" alt="Parking_Login" src="https://github.com/user-attachments/assets/029adb5a-5b79-4d34-b3ce-7852dce444f7" />
 
 **Parking SignUp Page**
-<img width="1918" height="766" alt="Parking_Login" src="https://github.com/user-attachments/assets/83eb0a7f-21ba-4b07-bbec-1127100e542f" />
+<img width="1917" height="825" alt="Parking_Signup" src="https://github.com/user-attachments/assets/c441c937-c557-4b79-b452-5fa1c2dafef0" />
+
 
 **Parking Slots and Zones Page**
 <img width="1918" height="787" alt="Parking_SlotsAndZones" src="https://github.com/user-attachments/assets/bc24288a-d157-49cf-ab24-07f0c2f823f9" />
 
-**Parking Confirm Booking Page  **
+**Parking Confirm Booking Page**
 <img width="1910" height="818" alt="Parking_ConfirmBooking" src="https://github.com/user-attachments/assets/3e00c421-3d67-4bda-a4f8-bfbe0442ad87" />
 
 **Parking - Booking Successful**
