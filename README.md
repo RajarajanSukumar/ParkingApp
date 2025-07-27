@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# ParkingApp 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A parking management interface built with React that helps users find open slots, book them in real time — all optimized for usability and responsiveness.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [About the Project]  
+- [Features]
+- [Tech Stack]
+- [Usage & Workflow] 
+- [Screenshots]
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About the Project
 
-### `npm test`
+ParkingApp allows users to browse parking slots, check real-time availability, and initiate bookings with minimal effort, prioritizing clarity and efficiency.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **View parking availability** in real time  
+- **Search and browse** parking locations  
+- **Book and manage slots** 
+- **Simple, user-focused interface** for smooth flow
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Tech Stack
 
-### `npm run eject`
+- **Frontend**: React, Router
+- **Styling**: CSS
+- **API**: Axios API 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Usage & WorkFlow
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- First create a new sign in or login to view and book the parking slots
+- After login, you can view the slot availablity in Parking zones
+- Select the slots that are available and click on confirm
+- In Confirm Booking page, select the No. of hours you want to park and get the estimated amount to be paid
+- You can cancel the slots you booked and can view the estiamted refund amount
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Screenshots
 
-## Learn More
+**Parking Login Page**
+<img width="1918" height="766" alt="Parking_Login" src="https://github.com/user-attachments/assets/029adb5a-5b79-4d34-b3ce-7852dce444f7" />
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Parking SignUp Page**
+<img width="1918" height="766" alt="Parking_Login" src="https://github.com/user-attachments/assets/83eb0a7f-21ba-4b07-bbec-1127100e542f" />
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Parking Slots and Zones Page**
+<img width="1918" height="787" alt="Parking_SlotsAndZones" src="https://github.com/user-attachments/assets/bc24288a-d157-49cf-ab24-07f0c2f823f9" />
 
-### Code Splitting
+**Parking Confirm Booking Page  **
+<img width="1910" height="818" alt="Parking_ConfirmBooking" src="https://github.com/user-attachments/assets/3e00c421-3d67-4bda-a4f8-bfbe0442ad87" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Parking - Booking Successful**
+<img width="1918" height="806" alt="Parking_SuccessBooking" src="https://github.com/user-attachments/assets/6720708b-bd02-4f73-94ec-748dbb037cda" />
 
-### Analyzing the Bundle Size
+**Parking Profile** 
+<img width="1917" height="410" alt="Parking_Profile" src="https://github.com/user-attachments/assets/120d1295-05f9-4aba-9e8b-cef09085f5ba" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+**Parking Cancellation Page**
+<img width="1917" height="815" alt="Parking_ConfirmCanellation" src="https://github.com/user-attachments/assets/d6f4fd8e-9ddd-41e2-addb-15f96b919b12" />
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Parking Cancellation Successful** 
+<img width="1907" height="806" alt="Parking_CancellationSuccessful" src="https://github.com/user-attachments/assets/96198394-0c04-47ba-98b6-9ad2277c798e" />
